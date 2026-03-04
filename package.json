@@ -1,0 +1,21 @@
+{
+  "name": "2025573010015_algoritma_dan_stuktur_data",
+  "version": "1.0.0",
+  "description": "Nim     : 2025573010015\r Nama    : M. Syarfani\r Alamat  : Desa Blang Tanah Pasir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msyarfani/2025573010015_Algoritma_Dan_Stuktur_Data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/msyarfani/2025573010015_Algoritma_Dan_Stuktur_Data/issues"
+  },
+  "homepage": "https://github.com/msyarfani/2025573010015_Algoritma_Dan_Stuktur_Data#readme"
+}
